@@ -20,14 +20,14 @@ https://www.kaggle.com/datasets/pourchot/ddsm-mammography-positive-case
 
 ## 代码解读
 
-1. 训练集数据处理：rsna-cropped-tfrecords-768x1344-dataset-2.ipynb
+1. 训练集数据处理：RSNA-Cropped-768x1344-train-data.ipynb
 
-2. 额外数据处理：rsna-extra-positive-data-process.ipynb
+2. 额外数据处理：RSNA-extra-positive-data-process.ipynb
 
 3. 额外数据集地址：https://www.kaggle.com/datasets/pourchot/ddsm-mammography-positive-case
 
-4. 训练：不带额外数据集：rsna-convnextv2-training-m1-folds.ipynb
+4. 训练：不带额外数据集：RSNA-Convnextv2-train-folds.ipynb
 
-5. 训练：带额外数据集：rsna-convnextv2-training-m1-extra-folds.ipynb
+5. 训练：带额外数据集：RSNA-Convnextv2-train-extra-folds.ipynb
 
-6. 推理：rsna-convnextv2-inference-tf-3.ipynb
+6. 推理：RSNA-Convnextv2-inference.ipynb
